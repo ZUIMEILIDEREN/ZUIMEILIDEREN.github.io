@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>朱鑫的博客</title>
+  <subtitle>我也不知道我为什么这么美!!!!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-02-24T06:53:28.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Zui Mei ZX</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/02/24/hello-world/"/>
+    <id>http://yoursite.com/2017/02/24/hello-world/</id>
+    <published>2017-02-24T10:15:23.364Z</published>
+    <updated>2017-02-24T06:53:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<a id="more"></a>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>创建hexo博客心得</title>
+    <link href="http://yoursite.com/2017/02/23/My-new-blog/"/>
+    <id>http://yoursite.com/2017/02/23/My-new-blog/</id>
+    <published>2017-02-23T08:39:11.000Z</published>
+    <updated>2017-02-24T06:53:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1-初始化博客"><a href="#1-初始化博客" class="headerlink" title="1 初始化博客"></a>1 初始化博客</h2><p>first follow those steps,initialization</p>
+<p><em>1&gt;</em>  create a new file<br><code>$ mkdir hexo-blog</code><br><a id="more"></a><br><em>2&gt;</em>  enter hexo-blog,input this order<br><code>hexo init</code></p>
+<p>you can see this words:<br><code>INFO  Copying data to ~/Documents/workspace/git/hexo-blog
+INFO  You are almost done! Don&#39;t forget to run &#39;npm install&#39; before you start blogging with Hexo!</code></p>
+<p>hexo-blog will has the following file</p>
+<p>  <em>scaffolds : 
+  </em>source :<br>  <em>themes : 
+  </em>_config.yml : </p>
+<p><em>3&gt;</em>   install program<br><code>$ sudo npm install</code></p>
+<p>hexo-blog will be added a new file:<br>  *node_modules:</p>
+<h2 id="2-配置博客"><a href="#2-配置博客" class="headerlink" title="2 配置博客"></a>2 配置博客</h2><p>path    hexo-blog/_config.yml</p>
+<p><em>1&gt;</em> settings<br>  <em># Site
+  </em>title:<br>  <em>subtitle:  
+  </em>description:<br>  <em>author:  
+  </em>language: zh-cn<br>  *timezone:       </p>
+<p><em>2&gt;</em> deploy (let your homepage can be visited by others)<br>(# Deployment)<br> deploy:<br>  type: git<br>  repository: git@github.com:xxx/xxx.github.io.git<br>  branch: master </p>
+<p><em>3&gt;</em> SSH key<br>anywherre click right mouse,select Git Bash<br><code>$ ssh-keygen -t rsa -C &quot;your_email@youremail.com&quot;</code></p>
+<p>come back Github, enter Settings,select SSH and GPG Keys –&gt; New SSH Key</p>
+<p>if you have finished, then input<br><code>$ ssh -T git@github.com</code></p>
+<p>if you are first using,you can see continue, input yes, You’ve successfully authenticated,but GitHub does not provide shell access </p>
+<p>At last,<br><code>$ git config --global user.name &quot;your name&quot;  
+$ git config --global user.email &quot;your_email@youremail.com&quot;</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;1-初始化博客&quot;&gt;&lt;a href=&quot;#1-初始化博客&quot; class=&quot;headerlink&quot; title=&quot;1 初始化博客&quot;&gt;&lt;/a&gt;1 初始化博客&lt;/h2&gt;&lt;p&gt;first follow those steps,initialization&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;1&amp;gt;&lt;/em&gt;  create a new file&lt;br&gt;&lt;code&gt;$ mkdir hexo-blog&lt;/code&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+    
+  </entry>
+  
+</feed>
