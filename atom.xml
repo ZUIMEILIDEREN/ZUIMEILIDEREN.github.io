@@ -19,7 +19,7 @@
     <title>Hello World</title>
     <link href="http://yoursite.com/2017/02/28/hello-world/"/>
     <id>http://yoursite.com/2017/02/28/hello-world/</id>
-    <published>2017-02-28T02:10:57.484Z</published>
+    <published>2017-02-28T02:30:15.190Z</published>
     <updated>2017-02-24T06:53:28.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
@@ -49,20 +49,19 @@
     <link href="http://yoursite.com/2017/02/28/%E7%94%9F%E6%B4%BB/"/>
     <id>http://yoursite.com/2017/02/28/生活/</id>
     <published>2017-02-28T00:22:17.000Z</published>
-    <updated>2017-02-28T02:10:37.000Z</updated>
+    <updated>2017-02-28T02:29:49.000Z</updated>
     
     <content type="html"><![CDATA[<h3 id="你喜欢吃甜甜圈嘛"><a href="#你喜欢吃甜甜圈嘛" class="headerlink" title="你喜欢吃甜甜圈嘛"></a>你喜欢吃甜甜圈嘛</h3><blockquote>
 <p>你喜欢吃甜甜圈嘛？ </p>
 <p>喜欢啊？怎么了？</p>
-<p>那你 有没有想过 反正甜甜圈吃几口就没了 为什么还要吃呢？<br>你会因为甜甜圈被吃完而不吃吗？ 不会对吧？</p>
-<p>也许在吃完的时候你会感觉到一丝难过，但是快吃完了，会让你感觉甜甜圈更加美味！</p>
+<p>那你 有没有想过 反正甜甜圈吃几口就没了 为什么还要吃呢？<br>你会因为甜甜圈被吃完而不吃吗？ 不会对吧？<br>也许在吃完的时候你会感觉到一丝难过，但是快吃完了，会让你感觉甜甜圈更加美味！</p>
 </blockquote>
 <a id="more"></a>
 <ul>
 <li>人类存在于这世界上只有几十万年，而天上的星星存在已经几* 十亿年了。</li>
 <li>你觉得宇宙真的在意你和我嘛？</li>
 <li>当然不会在意，我们只是尘埃罢了。</li>
-<li><p>有时候你会开心，有时候你会难过。<br>做你喜欢做的事就好了，奔跑，欢笑，哭泣。轻松的活着，享受生活，享受这个世界的美好，</p>
+<li><p>有时候你会开心，有时候你会难过。做你喜欢做的事就好了，奔跑，欢笑，哭泣。轻松的活着，享受生活，享受这个世界的美好，</p>
 </li>
 <li><p><code>毛姆在《人性的枷锁》中以主角菲利浦的口吻说：“人生没有意义，人活着也没什么目的。一个人生出来还是没有出生，活着还是死去，都无关宏旨。生命似轻尘，死去亦徒然。”“万事万物犹如过眼烟云，都会逝去，它们留下了什么踪迹呢？世间一切，包括人类本身，就像河中的水滴，它们紧密相联，组成了无名的水流，涌向大海。”他还这样写道，人本来就只不过是一个无足轻重的行星上的短暂生命，因此对于“永恒的头脑”来说，一个人一生的痛苦和奋斗只不过是个笑话而已。”</code><br><img src="/picture/1.jpg" alt="life"></p>
 </li>
@@ -76,8 +75,7 @@
       &lt;h3 id=&quot;你喜欢吃甜甜圈嘛&quot;&gt;&lt;a href=&quot;#你喜欢吃甜甜圈嘛&quot; class=&quot;headerlink&quot; title=&quot;你喜欢吃甜甜圈嘛&quot;&gt;&lt;/a&gt;你喜欢吃甜甜圈嘛&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;你喜欢吃甜甜圈嘛？ &lt;/p&gt;
 &lt;p&gt;喜欢啊？怎么了？&lt;/p&gt;
-&lt;p&gt;那你 有没有想过 反正甜甜圈吃几口就没了 为什么还要吃呢？&lt;br&gt;你会因为甜甜圈被吃完而不吃吗？ 不会对吧？&lt;/p&gt;
-&lt;p&gt;也许在吃完的时候你会感觉到一丝难过，但是快吃完了，会让你感觉甜甜圈更加美味！&lt;/p&gt;
+&lt;p&gt;那你 有没有想过 反正甜甜圈吃几口就没了 为什么还要吃呢？&lt;br&gt;你会因为甜甜圈被吃完而不吃吗？ 不会对吧？&lt;br&gt;也许在吃完的时候你会感觉到一丝难过，但是快吃完了，会让你感觉甜甜圈更加美味！&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
